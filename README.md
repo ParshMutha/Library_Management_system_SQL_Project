@@ -1,6 +1,7 @@
 
-#📚 Library Management System (SQL Project)
-📌 Project Overview
+📚 Library Management System (SQL Project)
+
+ Project Overview
 
 The Library Management System is a database-driven project developed using SQL to manage and organize library operations efficiently.
 It handles book records, member information, issue/return transactions, and maintains data integrity through structured queries.
