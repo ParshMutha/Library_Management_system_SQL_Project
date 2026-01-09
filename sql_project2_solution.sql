@@ -99,4 +99,7 @@ on ist.issued_id = rst.issued_id
 where rst.return_id is null
 
 
-select * from issued_status
+-- Task 13: Find the Average Rental Price  Of Books by Category
+select category, avg(rental_price)
+from books
+GROUP BY 1
